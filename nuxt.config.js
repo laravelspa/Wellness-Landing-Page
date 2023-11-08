@@ -1,4 +1,7 @@
 export default {
+  router: {
+    base: '/Wellness-Landing-Page'
+  },
   // Target: https://go.nuxtjs.dev/config-target
   target: 'static',
   // Global page headers: https://go.nuxtjs.dev/config-head
