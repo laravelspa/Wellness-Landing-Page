@@ -4,9 +4,9 @@ An 8-section landing page created for the purpose of selling the Natural product
 ## Requirements
 - Node v16.20.0
 ---
-[Demo](https://laravelspa.github.io/Wellness-Landing-Page)
+[Demo](https://laravelspa.github.io/Wellness-Landing-Page/)
 
-[![Wellness Landing Page](https://laravelspa.site/img/portfolio/wellness-landing-page/full-page.jpeg "Wellness Landing Page")](https://laravelspa.github.io/Wellness-Landing-Page)
+[![Wellness Landing Page](https://laravelspa.site/img/portfolio/wellness-landing-page/full-page.jpeg "Wellness Landing Page")](https://laravelspa.github.io/Wellness-Landing-Page/)
 ## Languages
 - **HTML** (Markup Language)
 - **CSS** (Style Sheet Language)
